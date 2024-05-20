@@ -7,13 +7,13 @@ const Main4 = () => {
             <h1 className='h1-heading'>Don't miss out on this <span className="highlight-4">limited-time <br /> opportunity</span> to learn for <span className="highlight">Free!</span></h1>
 
             <div className="offer-container-4">
-                <div className='refund-offer'><h2 className='h2-heading'>100% Refund Offer 😎</h2><img src="/images/scribble final version-24.png" className="refund-plane" alt="" /></div>
+                <div className='refund-offer'><h2 className='h2-heading'>100% Refund Offer 😎</h2><img src="./images/scribble final version-24.png" className="refund-plane" alt="" /></div>
                 <div className="seats">20 Seats Left</div>
                 <div className="progress-bar">
                     <div className="progress"></div>
                     <div className="circle"></div>
                 </div>
-                <div className="offer-end"><img src="/images/bx_time-five.png" className='clock' alt="" />Offer ends in 10:00Mins</div>
+                <div className="offer-end"><img src="./images/bx_time-five.png" className='clock' alt="" />Offer ends in 10:00Mins</div>
             </div>
 
             <div className="how-it-works">
