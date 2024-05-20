@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.header .logo {
+  height: 24px;
+}
+
+
+.buttons {
+  display: flex;
+  gap: 40px;
+}
+
+.buttons button {
+  background-color: #992E9D;
+  border: none;
+  height: 48px;
+  padding: 0.5rem 1rem;
+  color: #992E9D;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.buttons .login-btn {
+  background: transparent;
+}
+
+.buttons .signup-btn {
+  color: white;
+}
+
+

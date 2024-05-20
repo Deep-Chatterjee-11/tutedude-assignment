@@ -1,0 +1,116 @@
+.main {
+    padding: 5rem;
+}
+
+.intro .badge {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border: 1px solid #ffa500;
+    border-radius: 15px;
+    background-color: #fff;
+    transition: background-color 0.3s, box-shadow 0.3s;
+    font-size: 1.2rem;
+    color: #333;
+    max-width: 300px;
+}
+
+.intro .badge .icon {
+    margin-right: 0.5rem;
+    width: 24px;
+    height: 24px;
+}
+
+.intro h1 {
+    height: 200px;
+    max-width: 766px;
+    font-size: 54px;
+    color: #595961;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.intro h1 span {
+    color: #992E9D;
+}
+
+.intro .hero {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.badges {
+    display: flex;
+    align-items: center;
+}
+
+.badges div {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ffa500;
+    border-radius: 30px;
+    background-color: #FFFCEA;
+    font-size: 1.2rem;
+    color: #BB5302;
+    height: 40px;
+    margin: 0.5rem;
+    max-width: 280px;
+}
+
+.badges img {
+    margin-right: 0.5rem;
+    width: 24px;
+    height: 24px;
+}
+
+.buttons-container {
+    margin-top: 32px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.enroll-button {
+    background: #992E9D;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    cursor: pointer;
+    height: 75px;
+    max-width: 400px;
+}
+
+
+
+.know-more {
+    font-size: 1rem;
+    color: #A14BFD;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.know-more:hover {
+    color: #D12FFF;
+}
+
+.icon {
+    width: 1rem;
+    height: 1rem;
+}
+
+

@@ -1,0 +1,90 @@
+.curriculum-container {
+    margin-top: 500px;
+    padding: 150px;
+    background-color: #FCF5FE;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.curriculum-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.learning-path {
+    align-content: center;
+    padding: 8px 20px;
+    background-color: #F9EBFC;
+    border: 1px solid #F4D6F8;
+    color: #992E9D;
+    border-radius: 40px;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    height: 30px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #4C4D52;
+}
+
+
+h2 .highlight {
+    background: linear-gradient(45deg, #B73BBE, #EBCB2E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.curriculum-list {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 1184px;
+    margin-left: 5vw;
+}
+
+.course-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    padding: 15px 0;
+    border-bottom: 1px solid #eee;
+    height: 130px;
+}
+
+.course-item:last-child {
+    border-bottom: none;
+}
+
+.course-info h3 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.course-info p {
+    font-size: 1.5rem;
+    color: #666;
+}
+
+.view-curriculum {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    color: #B73BBE;
+    background-color: #FCF5FE;
+    cursor: pointer;
+    border: 1px solid #F9EBFC;
+    border-radius: 50px;
+    height: 70px;
+    width: 250px;
+    font-size: 1.5rem;
+    padding: 15px;
+}
+
+.view-curriculum img {
+    align-content: center;
+    margin-right: 10px;
+}
