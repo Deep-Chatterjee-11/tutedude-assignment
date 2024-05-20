@@ -10,7 +10,7 @@ const Main1 = () => {
 
 
                 <div className="badge">
-                    <img src='/images/Graduation hat.png' alt="Graduation Cap" className="icon" />
+                    <img src='./images/Graduation hat.png' alt="Graduation Cap" className="icon" />
                     <span>An <strong>IIT Delhi</strong> Alumni Initiative</span>
                 </div>
 
@@ -22,23 +22,23 @@ const Main1 = () => {
 
                 <div className="badges">
                     <div>
-                        <img src="/images/award_star.png" alt="star-img" />Personal Mentorship
+                        <img src="./images/award_star.png" alt="star-img" />Personal Mentorship
                     </div>
                     <div>
-                        <img src="/images/award_star.png" alt="star-img" />Internship Assistance
+                        <img src="./images/award_star.png" alt="star-img" />Internship Assistance
                     </div>
                     <div>
-                        <img src="/images/award_star.png" alt="star-img" />Industry Certified Courses
+                        <img src="./images/award_star.png" alt="star-img" />Industry Certified Courses
                     </div>
                 </div>
 
 
                 <div className="buttons-container">
                     <button className="enroll-button">
-                        Enroll Now <img src="/images/fi-br-paper-plane.png" alt="Enroll Now" className="icon" />
+                        Enroll Now <img src="./images/fi-br-paper-plane.png" alt="Enroll Now" className="icon" />
                     </button>
                     <a href="#" className="know-more">
-                        Know More <img src="/images/fi-br-interrogation.png" alt="Know More" className="icon" />
+                        Know More <img src="./images/fi-br-interrogation.png" alt="Know More" className="icon" />
                     </a>
                 </div>
 
