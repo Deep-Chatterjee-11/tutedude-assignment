@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import eyeIcon from '/images/fi-br-eye.png';
+import eyeIcon from './images/fi-br-eye.png';
 
 const Main3 = () => {
 
