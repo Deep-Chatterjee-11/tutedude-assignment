@@ -1,9 +1,9 @@
 import React from 'react';
 import './index.css';
-import coursesIcon from '/images/Group.png';
-import learnersIcon from '/images/Group (1).png';
-import doubtsIcon from '/images/XMLID_994_.png';
-import projectsIcon from '/images/Complete.png';
+import coursesIcon from './images/Group.png';
+import learnersIcon from './images/Group (1).png';
+import doubtsIcon from './images/XMLID_994_.png';
+import projectsIcon from './images/Complete.png';
 const Main2 = () => {
   
   const stats = [
